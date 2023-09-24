@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Epic Games/FirstPlatformer/Content/FirstPlatformer/Core/Blueprints/Game_mechanics/BP_zoneDamage.uasset",
+				"D:/Epic Games/FirstPlatformer/Content/FirstPlatformer/Core/Blueprints/Game_mechanics/BP_respawnVolume.uasset",
+				"D:/Epic Games/FirstPlatformer/Content/FirstPlatformer/Core/Blueprints/Components/BPC_health.uasset",
+				"D:/Epic Games/FirstPlatformer/Content/FirstPlatformer/Core/Blueprints/BP_PlatformerCharacterGameMode.uasset",
+				"D:/Epic Games/FirstPlatformer/Content/FirstPlatformer/Core/Blueprints/BP_PlatformerCharacter.uasset",
+				"D:/Epic Games/FirstPlatformer/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/Epic Games/FirstPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"D:/Epic Games/FirstPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/Epic Games/FirstPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"D:/Epic Games/FirstPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/35/7SU0Z4YS7O0EF6FRIKPUUD.uasset",
+				"D:/Epic Games/FirstPlatformer/Content/FirstPlatformer/Core/Blueprints/BP_CameraMovements.uasset",
+				"D:/Epic Games/FirstPlatformer/Content/FirstPlatformer/Core/Blueprints/BP_Batoot.uasset",
+				"D:/Epic Games/FirstPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/11/11Y244321TX3EYDIYODVV7.uasset",
+				"D:/Epic Games/FirstPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/YK/OF7CHLJN2KJSF10VHR4MKH.uasset",
+				"D:/Epic Games/FirstPlatformer/Content/Blueprints/Game_mechanics/BP_respawnVolume.uasset",
+				"D:/Epic Games/FirstPlatformer/Content/Blueprints/Game_mechanics/BP_zoneDamage.uasset",
+				"D:/Epic Games/FirstPlatformer/Content/Blueprints/Components/BPC_health.uasset",
+				"D:/Epic Games/FirstPlatformer/Content/FirstPlatformer/Core/Blueprints/Components/BP_PlatformerPersonGameMode1.uasset",
+				"D:/Epic Games/FirstPlatformer/Content/FirstPlatformer/Core/Blueprints/BP_PlatformerPersonGameMode1.uasset",
+				"D:/Epic Games/FirstPlatformer/Content/FirstPlatformer/Core/Blueprints/BP_PlatformPersonCharacter_2.uasset"
+			]
+		}
+	]
+}
